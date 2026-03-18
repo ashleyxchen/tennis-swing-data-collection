@@ -1,0 +1,10 @@
+{
+  "appId": "com.ashleyc.watchmotiondata",
+  "appName": "watch-motion-data-collection",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
